@@ -14,4 +14,6 @@ KHALLADI AMAL, EL ABIAD AHMED TAHA : Développeurs Web
 SAMY MEHARZI, GISLAIN AMITON : Data Analyst
 
 
-Lien vers le Board Github : 
+Lien vers le Board Github : https://github.com/orgs/Projet-integratif-G04/projects/1
+
+Lien vers le dossier Google Drive contenant les documents relatifs au projet : https://drive.google.com/drive/folders/1psIglOpKkPv2IaFS_qt0fnbzyhueK8gG?usp=sharing 
