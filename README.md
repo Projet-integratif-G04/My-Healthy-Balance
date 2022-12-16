@@ -7,13 +7,13 @@ My Healthy Balance est un projet de site web dynamique proposant des conseils nu
 
 L'équipe et composée de : 
 
-BCHIR DONIA : Product Owner 
+SAMY MEHARZI : Product Owner, Data Analyst
   
-KHALLADI AMAL, EL ABIAD AHMED TAHA : Développeurs Web 
+BCHIR DONIA KHALLADI AMAL, EL ABIAD AHMED TAHA : Développeurs Web 
   
-SAMY MEHARZI, GISLAIN AMITON : Data Analyst
+GISLAIN AMITON : Data Analyst
 
 
-Lien vers le Board Github : https://github.com/orgs/Projet-integratif-G04/projects/1
+Lien vers le Board Github : https://github.com/orgs/Projet-integratif-G04/projects/2
 
-Lien vers le dossier Google Drive contenant les documents relatifs au projet : https://drive.google.com/drive/folders/1psIglOpKkPv2IaFS_qt0fnbzyhueK8gG?usp=sharing 
+Lien vers le dossier Google Drive contenant les documents relatifs au projet : https://drive.google.com/drive/folders/1psIglOpKkPv2IaFS_qt0fnbzyhueK8gG?usp=sharing
